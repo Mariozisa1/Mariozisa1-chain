@@ -1,0 +1,15 @@
+{
+    "name": "Moonshadow",
+    "chain": "MOON",
+    "rpc": [],
+    "faucets": [],
+    "nativeCurrency": {
+        "name": "Moonshadow",
+        "symbol": "MSHD",
+        "decimals": 18
+    },
+    "infoURL": "https://docs.moonbeam.network/networks/overview/",
+    "shortName": "mshadow",
+    "chainId": 1288,
+    "networkId": 1288
+}
