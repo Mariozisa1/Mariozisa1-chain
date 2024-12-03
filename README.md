@@ -4,7 +4,7 @@ The source data is in _data/chains. Each chain has its own file with the filenam
 
 ## Example
 
-```json
+```json 
 {
   "name": "Ethereum Mainnet",
   "chain": "ETH",
